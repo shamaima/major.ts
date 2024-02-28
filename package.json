@@ -1,0 +1,12 @@
+{
+  "name": "typescript and node js assignment from 31 to 45",
+  "version": "1.0.0",
+  "description": "in this  type script file we solved assignment from 31 to 45 of govornor sindh IT initiative ",
+  "main": "major.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shamaima hassan (roll no: 00152431)",
+  "license": "ISC"
+}
